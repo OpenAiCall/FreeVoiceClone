@@ -107,17 +107,6 @@
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
-下图是随机抽取的需求对接的群：
-
-![image](https://github.com/user-attachments/assets/911cd5b8-4aec-42f4-a39e-bda21fff135a)
-![image](https://github.com/user-attachments/assets/bdac425d-9792-427e-bb25-0b4e748e54b8)
-![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/8562bddf-5f11-4f28-abde-b6fe98aa724d)
-![image](https://github.com/user-attachments/assets/cd932862-7b80-4b96-9fc3-c50caaea4ee0)
-![image](https://github.com/user-attachments/assets/5247f74c-89f3-4f3b-befd-04b681055592)
-![image](https://github.com/user-attachments/assets/3862674e-b1d7-4bc4-b3a6-7ecf73077934)
-![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
-
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
 <!--
